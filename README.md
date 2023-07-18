@@ -1,1 +1,3 @@
 # Intrusion Detection System V2
+
+Intrusion Detection System V2 (IDS2) is a Raspberry Pi-based security solution. It features Reed switches for door monitoring, an OLED display for user interaction, a Fingerprint Sensor for secure biometric authorization, an RFID Reader for ID card scanning, a Pi Cam for visual logs, and Google Sheets Integration for data logging. IDS2 ensures comprehensive home security, detecting unauthorized access, providing a user-friendly interface, secure biometric authentication, effortless ID card scanning, visual evidence capture, and efficient data logging.
